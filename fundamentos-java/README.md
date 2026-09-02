@@ -20,7 +20,7 @@ Fundamentos-java/
 
 | Pasta | Conteúdo | Status |
 |---|---|---|
-| [`logica-de-programacao/estrutura-sequencial`](./logica-de-programacao/estrutura-sequencial) | Algoritmos com execução linear, sem desvios | 🔲 Não iniciado |
+| [`logica-de-programacao/estrutura-sequencial`](./logica-de-programacao/estrutura-sequencial) | Algoritmos com execução linear, sem desvios | 🔄 em andamento |
 | [`logica-de-programacao/estrutura-condicional`](./logica-de-programacao/estrutura-condicional) | `if`, `else`, `switch`, operador ternário | 🔲 Não iniciado |
 | [`logica-de-programacao/estrutura-repetitiva`](./logica-de-programacao/estrutura-repetitiva) | `for`, `while`, `do-while`, `break`, `continue` | 🔲 Não iniciado |
 | [`orientacao-a-objetos`](./orientacao-a-objetos) | Classes, objetos, atributos, construtores, os 4 pilares | 🔲 Não iniciado |
