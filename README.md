@@ -20,7 +20,7 @@ Fundamentos-java/
 
 | Pasta | Conteúdo | Status |
 |---|---|---|
-| [`logica-de-programacao/estrutura-sequencial`](./logica-de-programacao/estrutura-sequencial) | Algoritmos com execução linear, sem desvios | 🔲 Não iniciado |
+| [`logica-de-programacao/estrutura-sequencial`](./logica-de-programacao/estrutura-sequencial) | Algoritmos com execução linear, sem desvios | 🔄 em andamento |
 | [`logica-de-programacao/estrutura-condicional`](./logica-de-programacao/estrutura-condicional) | `if`, `else`, `switch`, operador ternário | 🔲 Não iniciado |
 | [`logica-de-programacao/estrutura-repetitiva`](./logica-de-programacao/estrutura-repetitiva) | `for`, `while`, `do-while`, `break`, `continue` | 🔲 Não iniciado |
 | [`orientacao-a-objetos`](./orientacao-a-objetos) | Classes, objetos, atributos, construtores, os 4 pilares | 🔲 Não iniciado |
@@ -34,7 +34,18 @@ Cada pasta recebe as classes `.java` que escrevo enquanto estudo aquele tópico 
 
 ## Sobre mim
 
-Estudante de Ciência da Computação, em trajetória para me tornar desenvolvedor Back-end/Full-stack (Java + Angular).
+Sou estudante de Ciência da Computação e estou construindo minha trajetória para atuar como Desenvolvedor Back-End / Full-Stack Java.
 
-- LinkedIn: *[seu link aqui]*
-- Outros projetos: *[link para seus repositórios de projetos reais aqui]*
+Atualmente, concentro meus estudos em Java, orientação a objetos, Spring Boot, APIs REST, banco de dados SQL, Git/GitHub e fundamentos de desenvolvimento web, com evolução contínua para integração full-stack com Angular.
+
+Tenho foco em desenvolver uma base sólida, não apenas aprender ferramentas isoladas. Por isso, busco praticar com projetos, documentação no GitHub, resolução de problemas, organização de código e compreensão de boas práticas utilizadas no mercado.
+Meu objetivo é conquistar minha primeira oportunidade como estagiário ou desenvolvedor Java júnior, contribuindo com dedicação, capacidade de aprendizado, disciplina e evolução constante.
+
+Tenho interesse em ambientes onde eu possa crescer tecnicamente em desenvolvimento back-end, construção de APIs, banco de dados, integração de sistemas e, no caminho full-stack, também no uso de Angular no front-end.
+
+Tecnologias e temas em desenvolvimento:
+Java • Programação Orientada a Objetos • Spring Boot • APIs REST • SQL • PostgreSQL • Git/GitHub • Angular • Lógica de Programação • Estruturas de Dados • Boas práticas de código
+
+Estou sempre aberto a conexões com recrutadores, desenvolvedores e profissionais da área de tecnologia.
+
+- LinkedIn: *(https://www.linkedin.com/in/iago-santanaup/)*
