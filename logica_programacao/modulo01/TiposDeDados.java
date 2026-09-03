@@ -18,7 +18,7 @@ public class TiposDeDados {
         int productQuantity = 20;
         long userId = 10_000_000_000L;
         float temperature = 36.5f;
-        double temperature = 36.5;
+        double temperatura = 36.5;
         char initial = 'A';
         boolean accountActive = true;
 
