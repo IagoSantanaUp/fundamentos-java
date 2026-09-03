@@ -18,7 +18,7 @@ public class Variaveis {
         quantity = 5;
 
         //Sintaxe geral:
-        int quantity = 10;
+        int quantityy = 10;
         long userId = 100L;
         double percentage = 0.15;
         boolean active = true;
